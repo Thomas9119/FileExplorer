@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">File Explorer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="todo">todo</string>
+    <string name="label_parent_dir">...</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="label_last_edit">Edited: </string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="x_items">%s item</string>
+    <string name="text_type_file">File types</string>
+    <string name="text_name">Name</string>
+    <string name="text_date">Date</string>
+    <string name="text_kind_of">Kind of</string>
+    <string name="text_no_file">No file</string>
+    <string name="text_sort_by">Sort by</string>
+    <string name="input_search">Nhập để tìm kiếm file </string>
+
+    <string-array name="list_type">
+        <item>Name</item>
+        <item>Date</item>
+        <item>Size</item>
+        <item>Type</item>
+    </string-array>
+</resources>
